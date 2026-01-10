@@ -1,4 +1,4 @@
-from dragon_vs_knight import *
+from class_for_game import *
 import time
 
 # начало игры
